@@ -77,13 +77,9 @@ for x, y, col in coordinates_to_draw:
     turtle.pendown()
     turtle.color(col)
     turtle.begin_fill()
-    direction = randint(0, 1)
     for i in range(4):
         turtle.forward(sq_side)
-        if random_draw and direction:
-            turtle.right(90)
-        else:
-            turtle.left(90)
+        turtle.left(90)
     turtle.end_fill()
 
 
