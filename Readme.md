@@ -17,3 +17,6 @@ python india.py
 
 ## Output
 
+https://user-images.githubusercontent.com/69471106/214754192-4a724531-a6f3-4352-8c8c-bb8bf962721d.mp4
+
+
