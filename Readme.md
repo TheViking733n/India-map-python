@@ -1,4 +1,4 @@
-i# India Map Python
+## India Map Python
 Generates a mosaic art of India map from an image using Python.
 Uses the PIL library to generate the mosaic art and turtle to draw the map.
 
